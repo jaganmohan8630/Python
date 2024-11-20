@@ -3,7 +3,7 @@
 n=int(input("emter your number:"))
 a=[1]
 sum=0
-for i in range(1,n+1):
+for i in range(1,n):
     sum+=i
     a.append(sum)
 print(a)
