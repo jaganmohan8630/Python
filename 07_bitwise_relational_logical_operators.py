@@ -1,0 +1,15 @@
+a=10
+b=5
+print("a & b is",a&b)
+print("a | b is",a|b)
+print("a ^ b is",a^b)
+print("not a is",~a)
+print(a>b)
+print(a<b)
+print(a==b)
+print(a!=b)
+print(a>=b)
+print(a<=b)
+print(a and b)
+print(a or b)
+print(not b)
